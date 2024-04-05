@@ -246,3 +246,15 @@ img {
 .sitenav-link:active {
     opacity: 0.6;
 }
+
+
+/* site-header-banner */
+
+.site-header-banner {
+}
+.site-header-banner-link {
+    display: flex;
+}
+.site-header-banner-img {
+    border-radius: 8px;
+}
